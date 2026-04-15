@@ -5,3 +5,6 @@
 2.可选加密打包
 3.可选ico格式图标打包
 4.一键补齐打包环境
+5运行此工具需要的库:pyqt5此外其他库为python自带例如sys, os, subprocess, shutil, threading, importlib
+urllib.request, zipfile, tarfile, tempfile
+pathlib.Path

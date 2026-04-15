@@ -8,3 +8,4 @@
 5运行此工具需要的库:pyqt5此外其他库为python自带例如sys, os, subprocess, shutil, threading, importlib
 urllib.request, zipfile, tarfile, tempfile
 pathlib.Path
+#作者只会python其他语言有bug请发邮件至wemebabo57@gmail.com
